@@ -1,2 +1,2 @@
-# DS-Algo-using-java
+# data structures and algorithms
 This repository contains codes on various data structuers and algorithms implemented in java.
